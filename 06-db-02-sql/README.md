@@ -34,7 +34,7 @@ db-backup:
 Приведите:
 
 - итоговый список БД после выполнения пунктов выше;  
-![](/06-db-02-sql/2_all_dbs.png)  
+![](./06-db-02-sql/2_all_dbs.png)  
 
 - описание таблиц (describe);  
 ![](/06-db-02-sql/2_table_describe.png)  
